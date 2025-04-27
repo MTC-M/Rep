@@ -1,0 +1,6 @@
+{
+    "name": "USDC-Dev (Custom)",
+    "symbol": "USDC-C",
+    "description": "Custom USDC-like token for devnet testing",
+    "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png"
+}
